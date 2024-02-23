@@ -12,6 +12,6 @@ fun buggyFunction(str: String){
     println("Hello!")
   } else if (str == "goodbye"){
     println("Goodbye!")
+    }
   }
-  }
-}
+
